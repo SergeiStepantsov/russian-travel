@@ -1,9 +1,9 @@
 .page__header{
-  padding: 0 24px 56px;
+  padding-bottom: 56px;
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 1140px) {
   .page__header{
-    padding: 0 18px 48px;
+    padding-bottom: 48px;
   }
 }
